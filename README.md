@@ -1,5 +1,5 @@
-# CS100_Git 
+# CS100_Gi
 
 This is CS100 course for Git seminar.
 
-Done by Jinjulee.
+Done by JINJU LEE. 
